@@ -1,2 +1,2 @@
-# ProjectRepositoryTemplate
-This is a template fort all the KGE projects repository. In general the structure of this repository has to be applied to every iTelos project.
+# Trentino Weather and Climate Change
+Repository for Knowledge Graph Engineering project focused on the creation of knowledge graph from climate change weather data in Trentino area.
